@@ -1,4 +1,5 @@
 # React + TypeScript + Vite
 ```bash
-npm run dev
+$ yarn or npm install
+$ npm run dev
 ```
