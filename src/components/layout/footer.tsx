@@ -9,14 +9,10 @@ function Footer() {
             <h5 className="font-bold text-xl">Foody Lounge</h5>
           </section>
           <section className="flex items-center gap-[10px]">
-            <a href="https://www.instagram.com/bodiedbyluto?igsh=MWRwaHl4ZWhuOGV5MA==">
+            <a href="#">
               <Instagram color="#000" />
             </a>
-            <a
-              href="mailto:info@bodiedbylu.com"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="#" target="_blank" rel="noopener noreferrer">
               <Mail color="#000" />
             </a>
           </section>
